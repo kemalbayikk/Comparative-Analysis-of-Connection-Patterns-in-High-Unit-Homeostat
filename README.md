@@ -1,1 +1,3 @@
-# Comparative-Analysis-of-Connection-Patterns-in-High-Unit-Homeostat
+# Comparative Analysis of Connection Patterns in High Unit Homeostat
+
+In this project, six different connection patterns were tested to determine the most efficient design for high-unit-number homeostats, focusing on adaptation time, complexity, and robustness. The analysis showed that sparse connectivity, importance-based connectivity, and the Watts-Strogatz model performed similarly with lower complexity than the fully connected pattern, which was the most complex. Sparse connectivity was the most robust for 4-7 and 9 units, importance-based connectivity excelled at 8 units, and the Watts-Strogatz model was the most robust at 10 units, while importance-based connectivity outperformed others in adaptation time for high unit numbers.
